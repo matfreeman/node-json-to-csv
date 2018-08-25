@@ -1,0 +1,11 @@
+{ "rows": [
+        {
+            "propa": "val1",
+            "propb": "val2"
+        },
+        {
+            "propa": "val3",
+            "propb": "val4"
+        }
+    ]
+}

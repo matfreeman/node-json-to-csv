@@ -1,2 +1,2 @@
 # node-json-to-csv
-Converts JSON files to CSV
+Stream based conversion of JSON files to CSV for large JSON data sets.
