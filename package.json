@@ -1,0 +1,31 @@
+{
+  "name": "json-to-csv",
+  "version": "1.0.0",
+  "description": "Stream based conversion of JSON files to CSV for large JSON data sets.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "JSONStream": "^1.3.4",
+    "array-to-csv": "^1.0.1",
+    "colors": "^1.3.1",
+    "convert-json-to-csv": "^1.0.0",
+    "jsonfile": "^4.0.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matfreeman/node-json-to-csv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matfreeman/node-json-to-csv/issues"
+  },
+  "homepage": "https://github.com/matfreeman/node-json-to-csv#readme"
+}
